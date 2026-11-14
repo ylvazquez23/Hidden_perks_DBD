@@ -24,8 +24,8 @@ Para que no puedas reconocer tus perks por el dibujo en el lobby ni en la esquin
 
 1. Descarga e instala la app de escritorio desde **[nightlight.gg](https://nightlight.gg)** (es segura y está permitida por Behaviour al modificar únicamente archivos visuales locales en `Content/UI/Icons`).
 2. Entra en el catálogo de packs de NightLight (**[nightlight.gg/packs](https://nightlight.gg/packs)**) y busca el pack:
-   * **Hidden Perks Pack** (por **DeadSuperY**)[cite: 11] — Reemplaza todos los iconos de perks por el rombo morado de nivel 3 con un signo de interrogación (`?`), ocultando por completo qué ventajas llevas equipadas[cite: 10].
-   *(Nota: Si acabas de consultar este repositorio y el pack aún aparece pendiente de aprobación en NightLight[cite: 11], puedes generarlo e instalarlo manualmente en local con el script `generar_pack_oculto.py` y la imagen `token.png` incluidos).*
+   * **Hidden Perks Pack** (por **DeadSuperY**) — Reemplaza todos los iconos de perks por el rombo morado de nivel 3, ocultando por completo qué ventajas llevas equipadas.
+   
 3. Pulsa **Install** desde NightLight y aplícalo antes de abrir *Dead by Daylight*.
 
 ---
