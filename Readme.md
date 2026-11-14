@@ -61,7 +61,7 @@ Ejecuta **`1_instalar_requisitos.bat`** (solo la primera vez).
 3. **Aparta la vista de la pantalla** (o cierra los ojos) y pulsa la tecla **`0`**.
 4. Oirás un **pitido grave** al empezar, el script navegará por las páginas y equipará 4 perks al azar sin repetir ninguna, cerrará el menú de perks y emitirá un **pitido agudo** al terminar.
 5. Pulsa **Listo** sin pasar el cursor por encima de las ranuras de perks para no leer sus nombres.
-6. Cuando termines de jugar, pulsa **`9`** para cerrar el programa en segundo plano.
+6. Cuando termines con este procedimiento, pulsa **`9`** para cerrar el programa en segundo plano.
 
 *(Seguridad: Si necesitas abortar el movimiento automático del ratón en cualquier instante, desplaza el cursor de golpe hacia la **esquina superior izquierda** de la pantalla).*
 
